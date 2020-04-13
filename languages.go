@@ -1,4 +1,4 @@
-package main
+package voicerssgo
 
 const (
 	Catalan             = "ca-es"

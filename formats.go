@@ -1,4 +1,4 @@
-package main
+package voicerssgo
 
 const (
 	F8kHz8bitMono   = "8khz_8bit_mono"
