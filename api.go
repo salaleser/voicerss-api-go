@@ -8,7 +8,7 @@ import (
 	"os"
 )
 
-const c = MP3
+const c = WAV
 const f = F48kHz16bitMono
 const base = "http://api.voicerss.org/"
 
